@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Calum Black @thatguycalumb.
+- Based in Sunnyvale, CA
+- Java/C++ developer
+- 📫 Shoot me an email at calum.black@outlook.com
